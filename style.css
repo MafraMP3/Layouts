@@ -1,0 +1,23 @@
+body{
+    background-color: #7d95ff;
+}
+.yo{
+    padding: 50;
+    margin: 20;
+    background-color: #e8aac9;
+}
+.flex{
+    display: flex;
+}
+.yoside{
+    padding: 50;
+    margin: 20;
+    background-color: #e8aac9;
+    padding-right: 190;
+}
+.yobasso{
+    padding: 50;
+    margin: 20;
+    background-color: #e8aac9;
+    padding-bottom: 190;
+}
