@@ -26,8 +26,11 @@ body{
     border-radius: 15px;
 }
 
-.m_zero{
+.m_upzero{
     margin-top: 0;
+}
+.m_bassozero{
+    margin-bottom: 0;
 }
 .invisible{
     background-color: #7d95ff;
