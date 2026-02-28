@@ -81,13 +81,13 @@ h1 {
 .botaomenu{
     background-color: #e8aac9;
     border-radius: 15px;
-    margin: 20px;
+    margin: 40px auto;
     width: 100px;
     text-align: center;
     padding: 20px;
     transition: 0.5s;
-    justify-content: center;
-    justify-items: center;
+    display: block;
+    width: 120px;
 }
 
 .botaomenu:hover{
