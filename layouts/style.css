@@ -40,6 +40,8 @@ body {
     font-family: 'Fredoka', sans-serif;
 }
 
+
+
 h1 {
     text-align: center;
     margin-bottom: 40px;
@@ -103,4 +105,8 @@ h1 {
 }
 .botaomenu:hover a {
     color: #f8f8f8;
+}
+
+footer {
+    margin-top: auto;
 }
